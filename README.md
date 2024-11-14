@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+💻 Desarrollador Fullstack | Creación de soluciones completas y escalables<br><br>Soy un Desarrollador Fullstack con experiencia en la creación de aplicaciones web y móviles que integran un frontend atractivo con un backend robusto y eficiente. Me apasiona el desarrollo de software y disfruto trabajando en proyectos que requieren tanto habilidades técnicas como creatividad para resolver problemas complejos.<br><br>He trabajado en diversos entornos, desde startups hasta proyectos de mayor escala, adaptándome rápidamente a nuevas tecnologías y equipos. Mi enfoque está en entregar soluciones de alta calidad que optimicen los procesos de negocio y ofrezcan una excelente experiencia de usuario.<br><br>🧠 Habilidades clave:<br><br>- Desarrollo frontend con tecnologías modernas (Angular, TypeScript, JavaScript).<br>- Backend sólido utilizando .NET, PHP, Laravel, Java y bases de datos relacionales/noSQL.<br>- Implementación de APIs y servicios web.<br>- Metodologías ágiles y colaboración en equipos multidisciplinarios.<br>- Enfoque en la optimización y escalabilidad de aplicaciones.<br><br>🔍 Mi enfoque: <br><br>Soy un profesional orientado a resultados que busca continuamente mejorar sus habilidades. Me interesa colaborar en proyectos desafiantes donde pueda aportar soluciones eficientes y de alto impacto, mientras sigo aprendiendo y evolucionando en el siempre cambiante mundo del desarrollo.
 
-<!--
-**aaronmagro/aaronmagro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/erensito_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaronm.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magromaldonadoaaron) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/erensito_) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aaronmagro&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aaronmagro&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmagro&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aaronmagro&icon=5&color=8)](https://visitcount.itsvg.in)
