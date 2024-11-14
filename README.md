@@ -56,10 +56,6 @@ Soy un profesional orientado a resultados que busca continuamente mejorar sus ha
 
 <a href="https://github.com/aaronmagro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmagro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-**Top Repositories**
+<b>Top Repositories</b>
 
-<div width="100%" align="center">
-<a href="https://github.com/aaronmagro/proyecto" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/p/repo?username=aaronmagro&repo=proyecto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repositorio 1" /></a> <a href="https://github.com/aaronmagro/otro-proyecto" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=otro-proyecto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Repositorio 2" /></a>
-
-</div>
-<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/aaronmagro/proyecto" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=proyecto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aaronmagro/RECU-PROG" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=RECU-PROG&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
