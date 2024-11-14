@@ -1,5 +1,4 @@
 # Hi 👋 My name is Aaron Magro Maldonado
-======================================
 
 💻 Desarrollador Fullstack | Creación de soluciones completas y escalables
 
@@ -58,4 +57,4 @@ Soy un profesional orientado a resultados que busca continuamente mejorar sus ha
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/aaronmagro/proyecto" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=proyecto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aaronmagro/RECU-PROG" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=RECU-PROG&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/aaronmagro/proyecto" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=proyecto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aaronmagro/Comercio_Java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaronmagro&repo=RECU-PROG&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
