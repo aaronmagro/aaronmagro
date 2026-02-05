@@ -14,7 +14,7 @@ Soy un Desarrollador Fullstack con experiencia en la creación de aplicaciones w
 ### 🔍 Mi enfoque:
 Soy un profesional orientado a resultados que busca continuamente mejorar sus habilidades. Me interesa colaborar en proyectos desafiantes donde pueda aportar soluciones eficientes y de alto impacto, mientras sigo aprendiendo y evolucionando en el siempre cambiante mundo del desarrollo.
 
-- 🌍 I'm based in Extremadura, Badajoz, Spain
+- 🌍 I'm based in Badajoz, Extremadura, Spain
 - ✉️ You can contact me at [magromaldonadoaaron@gmail.com](mailto:magromaldonadoaaron@gmail.com)
 - 🚀 I'm currently working on [NTT Data](http://es.nttdata.com/)
 
