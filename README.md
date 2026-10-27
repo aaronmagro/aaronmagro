@@ -1,8 +1,8 @@
 # Aarón Magro
 
-Desarrollador full-stack de Badajoz. Pasé casi dos años en NTT DATA manteniendo APIs .NET para un cliente de banca y dando soporte a aplicaciones del sector inmobiliario. Por mi cuenta hago webs con Astro y TypeScript que acaban en producción, con gente usándolas.
+Desarrollador full-stack de Badajoz. Pasé casi dos años en NTT DATA manteniendo APIs .NET para un banco con más de 2 millones de clientes y dando soporte a aplicaciones del sector inmobiliario, donde resolví más de 1.800 tickets. Por mi cuenta hago webs con Astro y TypeScript que acaban en producción, con gente usándolas.
 
-Ahora busco equipo como desarrollador full-stack o .NET, o en soporte y mantenimiento de aplicaciones. Presencial, híbrido o remoto, en Badajoz o Madrid.
+Ahora busco equipo como desarrollador full-stack o .NET, o en soporte y mantenimiento de aplicaciones. Presencial, híbrido o remoto, en Badajoz o Madrid, con incorporación inmediata.
 
 ## Proyectos
 
@@ -23,4 +23,4 @@ Ahora busco equipo como desarrollador full-stack o .NET, o en soporte y mantenim
 
 ---
 
-*Full-stack developer based in Spain, open to full-stack, .NET or application support roles. Happy to talk in English. Portfolio in English: [aaronmagro.com/en](https://aaronmagro.com/en/) · [contact@aaronmagro.com](mailto:contact@aaronmagro.com).*
+*Full-stack developer based in Spain, open to full-stack, .NET or application support roles and available now. Happy to talk in English. Portfolio in English: [aaronmagro.com/en](https://aaronmagro.com/en/) · [contact@aaronmagro.com](mailto:contact@aaronmagro.com).*
